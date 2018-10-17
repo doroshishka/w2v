@@ -1,6 +1,6 @@
 # Word2Vec
 ## Word to Vector initial code
-``
+```
 import numpy
 import nltk
 from nltk.tokenize import word_tokenize
