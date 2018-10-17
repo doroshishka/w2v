@@ -1,6 +1,6 @@
 # Word2Vec
-Word to Vector transformation code
-
+## Word to Vector initial code
+``
 import numpy
 import nltk
 from nltk.tokenize import word_tokenize
@@ -20,3 +20,4 @@ with open(data_path) as f:
      
 import pdb
 pdb.set_trace()
+```
